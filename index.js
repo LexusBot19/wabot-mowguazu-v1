@@ -28,7 +28,7 @@ const { limits } = require('./Fxc7/limit')
 const fs = require('fs')
 const moment = require('moment-timezone')
 const { exec } = require('child_process')
-const kagApi = require('')
+const kagApi = require('@kagchi/kag-api')
 const fetch = require('node-fetch')
 const tiktod = require('tiktok-scraper')
 const ffmpeg = require('fluent-ffmpeg')
@@ -117,7 +117,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Sayonara @${num.split('@')[0]}👋`
+				teks = `Bye Beban Grup @${num.split('@')[0]}👋`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -192,7 +192,10 @@ async function starts() {
 			"6288806756044@s.whatsapp.net"
 			]
 			premium = [
-			"6289505010618@s.whatsapp.net"
+			"6289505010618@s.whatsapp.net" 
+                        "6288806756044@s.whatsapp.net"
+                        "62895802733700@s.whatsapp.net"
+                        "6281290958518@s.whatsapp.net"
 			]
 			
 			const apakahh = [
