@@ -8,13 +8,6 @@
 <p align="center">
 <a href="#"><img title="wabot-mowguazu-v1" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<p align="center">
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Fxc7/termux-bot-wa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxc7/termux-bot-wa?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
 
 </p>
 
