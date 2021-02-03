@@ -9,7 +9,7 @@ ${instagram}
 ${yt}
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/G85MMyIhf9e4OTflJilFG7
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -76,34 +76,34 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ➻ *${prefix}trigger [reply image]*
 ➻ *${prefix}rip [reply image]*
 ➻ *${prefix}wasted [reply image]*
-➻ *${prefix}cphlogo [FXC7/BOT]*
-➻ *${prefix}cglitch [FXC7/BOT]*
-➻ *${prefix}cpubg [FXC7/BOT]*
-➻ *${prefix}cml [miya/FXC7]*
+➻ *${prefix}cphlogo [MOWGUAZU/BOT]*
+➻ *${prefix}cglitch [MOWGUAZU/BOT]*
+➻ *${prefix}cpubg [MOWGUAZU/BOT]*
+➻ *${prefix}cml [miya/MOWGUAZU]*
 
-➻ *${prefix}tahta [FXC7]*
-➻ *${prefix}croman [FXC7 dan BOT]*
-➻ *${prefix}cthunder [FXC7]*
-➻ *${prefix}cbpink [FXC7]*
-➻ *${prefix}cmwolf [FXC7]*
-➻ *${prefix}csky [FXC7]*
-➻ *${prefix}cwooden [FXC7]*
-➻ *${prefix}cflower [FXC7]*
-➻ *${prefix}clove [FXC7]*
-➻ *${prefix}ccrossfire [FXC7]*
-➻ *${prefix}cnaruto [FXC7]*
-➻ *${prefix}cparty [FXC7]*
-➻ *${prefix}cshadow [FXC7]*
-➻ *${prefix}cminion [FXC7]*
-➻ *${prefix}cneon [FXC7]*
-➻ *${prefix}cneon2 [FXC7]*
-➻ *${prefix}cneongreen [FXC7]*
-➻ *${prefix}c3d [FXC7]*
-➻ *${prefix}csky [FXC7]*
+➻ *${prefix}tahta [MOWGUAZU]*
+➻ *${prefix}croman [MOWGUAZU dan BOT]*
+➻ *${prefix}cthunder [MOWGUAZU]*
+➻ *${prefix}cbpink [MOWGUAZU]*
+➻ *${prefix}cmwolf [MOWGUAZU]*
+➻ *${prefix}csky [MOWGUAZU]*
+➻ *${prefix}cwooden [MOWGUAZU]*
+➻ *${prefix}cflower [MOWGUAZU]*
+➻ *${prefix}clove [MOWGUAZU]*
+➻ *${prefix}ccrossfire [MOWGUAZU]*
+➻ *${prefix}cnaruto [MOWGUAZU]*
+➻ *${prefix}cparty [MOWGUAZU]*
+➻ *${prefix}cshadow [MOWGUAZU]*
+➻ *${prefix}cminion [MOWGUAZU]*
+➻ *${prefix}cneon [MOWGUAZU]*
+➻ *${prefix}cneon2 [MOWGUAZU]*
+➻ *${prefix}cneongreen [MOWGUAZU]*
+➻ *${prefix}c3d [MOWGUAZU]*
+➻ *${prefix}csky [MOWGUAZU]*
 
-➻ *${prefix}tts [id Haii]*
-➻ *${prefix}ttp [Fxc7]*
-➻ *${prefix}slide [Fxc7]*
+➻ *${prefix}tts [id HAI MOWGUAZU]*
+➻ *${prefix}ttp [MOWGUAZU]*
+➻ *${prefix}slide [MOWGUAZU]*
 ➻ *${prefix}stiker*
 ➻ *${prefix}gifstiker*
 ➻ *${prefix}toimg*
@@ -210,29 +210,29 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭──────────────────────────
 ┴
-➻ *${prefix}jarak [Banyuwangi/Surabaya]*
+➻ *${prefix}jarak [Jakarta/Yogyakarta]*
 ➻ *${prefix}translate [en/Apa kabar?]*
-➻ *${prefix}pasangan [Farhan/Iriene]*
-➻ *${prefix}gantengcek [Farhan]*
-➻ *${prefix}cantikcek [Iriene]*
-➻ *${prefix}artinama [Farhan]*
-➻ *${prefix}persengay [Topan]*
-➻ *${prefix}pbucin [Farhan]*
-➻ *${prefix}bpfont [Farhan]*
-➻ *${prefix}textstyle [FXC7]*
-➻ *${prefix}jadwaltv [antv]*
+➻ *${prefix}pasangan [Nuryaga/BangJaur]*
+➻ *${prefix}gantengcek [MOWGUAZU]*
+➻ *${prefix}cantikcek [MOWGUAZU]*
+➻ *${prefix}artinama [MOWGUAZU]*
+➻ *${prefix}persengay [MOWGUAZU]*
+➻ *${prefix}pbucin [MOWGUAZU]*
+➻ *${prefix}bpfont [MOWGUAZU]*
+➻ *${prefix}textstyle [MOWGUAZU]*
+➻ *${prefix}jadwaltv [antv/transtv,dll]*
 ➻ *${prefix}lirik [melukis senja]*
 ➻ *${prefix}chord [Melukis senja]*
 ➻ *${prefix}wiki [Adolf Hitler]*
 ➻ *${prefix}brainly [pertanyaan]*
 ➻ *${prefix}resepmasakan [rawon]*
-➻ *${prefix}map [Banyuwangi]*
+➻ *${prefix}map [Yogyakarta]*
 ➻ *${prefix}film [Fast and Farious]*
 ➻ *${prefix}pinterest [gambar kucing]*
-➻ *${prefix}infocuaca [Banyuwangi]*
-➻ *${prefix}jamdunia [Banyuwangi]*
+➻ *${prefix}infocuaca [Yogyakarta]*
+➻ *${prefix}jamdunia [Yogyakarta]*
 ➻ *${prefix}mimpi [Ular]*
-➻ *${prefix}infoalamat [jalan Banyuwangi]*
+➻ *${prefix}infoalamat [jalan Yogyakarta]*
 ┬
 ╰───────────────────────────
 
@@ -288,7 +288,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┴
 ➻ *${prefix}spamcall [083xxxxxxxxx]*
 ➻ *${prefix}spamsms [083xxxxxxxx/jumlah]*
-➻ *${prefix}spamgmail [farhanxcode7@gmail.com]*
+➻ *${prefix}spamgmail [MOWGUAZU19@gmail.com]*
 ┬
 ╰────────────────────────
 
@@ -327,12 +327,12 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭─────「 *SUPPORT ${name}* 」
+╭─────「 *TERMAKASIH BUAT 」
 │
-├➲ *O BOT*
-├➲ *M. HADI FIRMANSYA*
-├➲ *DELIA AULIA*
-├➲ *KEVIN DAVID*
+├➲ *MOWGUAZU BOT*
+├➲ *ZX BOT*
+├➲ *MHANKBARBAR*
+├➲ *NURUTOMO*
 ╰────────────────────────`
 }
 exports.help = help
