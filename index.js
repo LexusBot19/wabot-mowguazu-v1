@@ -61,7 +61,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:Farhan\n'
             + 'ORG:Creator FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6288806756044:+62 888-0675-6044\n'
             + 'END:VCARD'
 
 limitt = '999999'
