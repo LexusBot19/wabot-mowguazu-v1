@@ -5,7 +5,7 @@ return `
 ┣⊱❥ \`\`\`AKTIF\`\`\`: ${kyun(uptime)}
 ┣⊱❥ \`\`\`JAM\`\`\`: *${jam} WIB*
 ┣⊱❥ \`\`\`TANGGAL\`\`\`: *${tanggal}*
-┣⊱❥ \`\`\`VERSION\`\`\`: *6.5.0 TERMUX*
+┣⊱❥ \`\`\`VERSION\`\`\`: *1.14.14 NODEJS*
 ┃
 ┣⊱❥ ❌ *SPAM*
 ┣⊱❥ ❌ *CALL & VC*
@@ -35,7 +35,7 @@ return `
 ┃
 ┣⊱❥ \`\`\`Mau Invit Bot?? Donasi Gan,\`\`\`
 ┃ \`\`\`Kalo Gamau Donasi Follow Ig\`\`\`
-┃ \`\`\`@_farhan_xcode7\`\`\`
+┃ \`\`\`@Mhehe690\`\`\`
 ┃
 ┣⊱❥ \`\`\`Kalian Bisa Mempublish Quotes Kalian\`\`\`
 ┃ \`\`\`Jika Minat Hubungi Aja Owner Buat\`\`\`
