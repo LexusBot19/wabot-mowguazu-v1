@@ -3,10 +3,10 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 	return `
 	
 \`\`\`Follow My Instagram\`\`\`
-${instagram}
+@Mhehe690
 
 \`\`\`SUBSCRIBE😁\`\`\`
-${yt}
+MOWGUAZU OFFICIAL
 
 \`\`\`GROUP OFFICIAL\`\`\`
 https://chat.whatsapp.com/G85MMyIhf9e4OTflJilFG7
