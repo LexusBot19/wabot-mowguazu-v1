@@ -186,17 +186,14 @@ async function starts() {
 			}
 			
 			ban = [
-			
+		      
 			]
 			const ownerNumber = [
 			"6288806756044@s.whatsapp.net"
 			]
 			premium = [
-			"6289505010618@s.whatsapp.net" 
-                        "6288806756044@s.whatsapp.net"
-                        "62895802733700@s.whatsapp.net"
-                        "6281290958518@s.whatsapp.net"
-			]
+			"6288806756044@s.whatsapp.net" 
+                        ]
 			
 			const apakahh = [
             'Ya','Tidak','Ga tau'
