@@ -1,5 +1,5 @@
 const limitend = (pushname2) => {
-        return`*maaf ${pushname2} limit hari ini habis*\n*limit di reset setiap jam 12:00 WIB TENGAH MALAM*`
+        return`*maaf ${pushname2} limit hari ini habis*\n*limit di reset setiap jam 24:00 WIB TENGAH MALAM*`
 }
 
 const limitcount = (limitCounts) => {
