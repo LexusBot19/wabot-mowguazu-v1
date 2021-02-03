@@ -1,6 +1,6 @@
 /*
 * Tambahin nama author lah
-* Author MhankBarBar, Farhan
+* Author MhankBarBar, MowGuazu
 * Tambahin ya Cape Gan ngefix² Yg Ga work
 * Jan numpang nama doank
 
@@ -28,7 +28,7 @@ const { limits } = require('./Fxc7/limit')
 const fs = require('fs')
 const moment = require('moment-timezone')
 const { exec } = require('child_process')
-const kagApi = require('@kagchi/kag-api')
+const kagApi = require('')
 const fetch = require('node-fetch')
 const tiktod = require('tiktok-scraper')
 const ffmpeg = require('fluent-ffmpeg')
@@ -64,7 +64,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
             + 'END:VCARD'
 
-limitt = '1000'
+limitt = '999999'
 
 function kyun(seconds){
   function pad(s){
@@ -189,10 +189,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"628311800241@s.whatsapp.net"
+			"6288806756044@s.whatsapp.net"
 			]
 			premium = [
-			"628311800241@s.whatsapp.net"
+			"6289505010618@s.whatsapp.net"
 			]
 			
 			const apakahh = [
