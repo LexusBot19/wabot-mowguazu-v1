@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="#"><img title="wabot-mowguazu-v1" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="wabot-mowguazu-v1" src="https://img.shields.io/badge/-WABOT--MOWGUAZU--V1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </p>
@@ -16,8 +16,8 @@
 
 
 
-* [Ovo](08311800241)
-* [Pulsa](08311800241)
+* [Gopay](088806756044)
+* [Pulsa](088806756044)
 </details>
 
 ## Tools
@@ -37,20 +37,13 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
-> cd termux-bot-wa
+> git clone https://github.com/LexusBot19/wabot-mowguazu-v1
+> cd wabot-mowguazu-v1
 > npm cache clear
 > bash install.sh
 > npm audit fix
 > npm start / node index.js
 ```
-
-<p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TAMPILAN--MENU-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-<br>
-<img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/Screenshot_2021-01-29-18-18-32-18.jpg" width="400px" height="650px">
-</p>
 
 ## Features
 
@@ -220,8 +213,5 @@ Follow The Steps Below!
 
 
 
-## Group
-
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
+##😌🙏
 ---
